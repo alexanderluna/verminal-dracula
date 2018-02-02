@@ -1,12 +1,12 @@
 <h1 align="center">
   <img src="https://gielcobben.com/github/verminal/icon_256x256.png" width="100" alt="icon"><br>
-  Verminal
+  Verminal Dracula
   <br>
   <br>
 </h1>
 <br>
 <p align="center">  
-  <img src="https://gielcobben.com/github/verminal/github_cover.png" width="840" alt="banner">
+  <img src="https://raw.githubusercontent.com/Mycroft1891/verminal-dracula/master/assets/drac.png" width="840" alt="banner">
   <br>
   <h6 align="center">INTRODUCTION</h6>
   <p align="center">Verminal is a beautiful, fully customizable, theme for the Hyper terminal.</p>
